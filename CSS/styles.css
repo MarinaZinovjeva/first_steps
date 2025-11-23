@@ -1,0 +1,15 @@
+﻿* {
+    font-family: serif;
+}
+
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1.winter {
+    color: rgb(17, 17, 128);
+}
+
+h1.spring {
+    color: rgb(14, 167, 116);
+}
